@@ -28,7 +28,9 @@ scrollBy 및 scrollHeight 감지를 통해 모든 카페 항목을 탐색한 후
 
 ## 논문
 
-논문기재울시 자치구의 카페 메뉴 정보를 네이버 지도 기반으로 크롤링하고, 이를 전처리하여 분석 가능한 형태로 구조화한 프로젝트입니다.  
+논문기재  https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003221524
+
+서울시 자치구의 카페 메뉴 정보를 네이버 지도 기반으로 크롤링하고, 이를 전처리하여 분석 가능한 형태로 구조화한 프로젝트입니다.  
 iframe, 무한스크롤, 그룹형/이미지 메뉴 등 복잡한 DOM 구조를 자동으로 대응하도록 구성되어 있습니다.
 
 
@@ -56,12 +58,6 @@ scrollBy 및 scrollHeight 감지를 통해 모든 카페 항목을 탐색한 후
 
 ---
 
-## 논문
-
-논문기재
-https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003221524
-
----
 
 ## 🙋 담당 역할
 
