@@ -61,6 +61,7 @@ scrollBy 및 scrollHeight 감지를 통해 모든 카페 항목을 탐색한 후
 논문기재
 https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003221524
 
+---
 
 ## 🙋 담당 역할
 
