@@ -18,13 +18,13 @@ iframe, 무한스크롤, 그룹형/이미지 메뉴 등 복잡한 DOM 구조를 
 ## Design
 
 <p align="center">
-  <img src="images/r4.png" width="300"/>
-  <img src="images/r3.png" width="300"/>
+  <img src="images/r4.png" width="400"/>
+  <img src="images/r3.png" width="400"/>
 </p>
 
 <p align="center">
-  <img src="images/r1.png" width="300"/>
-  <img src="images/r2.png" width="300"/>
+  <img src="images/r1.png" width="400"/>
+  <img src="images/r2.png" width="400"/>
 </p>
 
 
