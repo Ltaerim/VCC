@@ -17,18 +17,17 @@ iframe, 무한스크롤, 그룹형/이미지 메뉴 등 복잡한 DOM 구조를 
 
 ## Design
 
-<a align="center">
-  <img src="images/r4.png" width=250 height=160/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="images/r3.png" width=250 height=160/>
-  <br><br>
-  <img src="images/lr1.png" width=250 height=160/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="images/r2.png" width=250 height=160/>
-  <br>
-</a>
+<p align="center">
+  <img src="images/r4.png" width="300"/>
+  <img src="images/r3.png" width="300"/>
+</p>
 
----
+<p align="center">
+  <img src="images/r1.png" width="300"/>
+  <img src="images/r2.png" width="300"/>
+</p>
+
+
 
 ## 크롤링 과정 개요
 
@@ -37,7 +36,7 @@ iframe, 무한스크롤, 그룹형/이미지 메뉴 등 복잡한 DOM 구조를 
 검색 결과와 상세 페이지는 각각 `searchIframe`과 `entryIframe` 내에 위치하며,  
 정확한 컨텍스트 전환을 통해 두 프레임을 오가며 정보를 수집하도록 설계하였다.
 
----
+
 
 <img src="images/menu.png" width="650"/>
 
@@ -45,14 +44,13 @@ iframe, 무한스크롤, 그룹형/이미지 메뉴 등 복잡한 DOM 구조를 
 scrollBy 및 scrollHeight 감지를 통해 모든 카페 항목을 탐색한 후,  
 각 카페의 메뉴 탭 클릭 → 메뉴 항목/가격 수집 → 이미지 메뉴 수집까지 일련의 과정을 자동화하였다.
 
----
+
 
 ## 🙋 담당 역할
 
 크롤링 및 데이터 전처리 파트를 담당
 
 
----
 
 ## 💡 Tech Stack
 
@@ -63,7 +61,7 @@ scrollBy 및 scrollHeight 감지를 통해 모든 카페 항목을 탐색한 후
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 </p>
 
----
+
 
 ## 논문
 
