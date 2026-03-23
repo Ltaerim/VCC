@@ -1,14 +1,14 @@
-
+<br>
 <div align="center">
-
-<img src="images/logo.png" width="140"/>
-# V.C.C
-
-### Data-driven Cafe Analytics & Recommendation System
-
-🏆 KCI 등재 논문 게재 (2025)
-
+  <img src="images/logo.png" width=100 height=100 /><br>
+  <h3 align="center">V.C.C</h3>
+  <p align="center">
+    데이터 기반 개인카페 분석 및 AI 솔루션 프로젝트 <br>
+  
+  </p>
 </div>
+<br>
+
 
 ## 🛰️ 크롤링 과정 개요
 
