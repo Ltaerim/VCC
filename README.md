@@ -15,16 +15,16 @@
 iframe, 무한스크롤, 그룹형/이미지 메뉴 등 복잡한 DOM 구조를 자동으로 대응하도록 구성되어 있습니다.
 
 
-##Design
+## Design
 
 <a align="center">
-  <img src="images/r4.png" width=200 height=130/>
+  <img src="images/r4.png" width=250 height=160/>
   &nbsp;&nbsp;&nbsp;
-  <img src="images/r3.png" width=200 height=130/>
+  <img src="images/r3.png" width=250 height=160/>
+  <br><br>
+  <img src="images/lr1.png" width=250 height=160/>
   &nbsp;&nbsp;&nbsp;
-  <img src="images/lr1.png" width=200 height=130/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="images/r2.png" width=200 height=130/>
+  <img src="images/r2.png" width=250 height=160/>
   <br>
 </a>
 
