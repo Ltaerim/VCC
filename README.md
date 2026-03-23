@@ -1,6 +1,14 @@
-서울시 자치구의 카페 메뉴 정보를 네이버 지도 기반으로 크롤링하고, 이를 전처리하여 분석 가능한 형태로 구조화한 프로젝트입니다.  
-iframe, 무한스크롤, 그룹형/이미지 메뉴 등 복잡한 DOM 구조를 자동으로 대응하도록 구성되어 있습니다.
 
+<div align="center">
+
+<img src="images/logo.png" width="140"/>
+# V.C.C
+
+### Data-driven Cafe Analytics & Recommendation System
+
+🏆 KCI 등재 논문 게재 (2025)
+
+</div>
 
 ## 🛰️ 크롤링 과정 개요
 
