@@ -11,9 +11,26 @@
 
 ## V.C.C 
 
+서울시 자치구의 카페 메뉴 정보를 네이버 지도 기반으로 크롤링하고, 이를 전처리하여 분석 가능한 형태로 구조화한 프로젝트입니다.  
+iframe, 무한스크롤, 그룹형/이미지 메뉴 등 복잡한 DOM 구조를 자동으로 대응하도록 구성되어 있습니다.
+
+
+##Design
+
+<a align="center">
+  <img src="images/r4.png" width=200 height=130/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="images/r3.png" width=200 height=130/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="images/lr1.png" width=200 height=130/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="images/r2.png" width=200 height=130/>
+  <br>
+</a>
+
 ---
 
-## 🛰️ 크롤링 과정 개요
+## 크롤링 과정 개요
 
 <img src="images/iframe.png" width="650"/>
 
@@ -30,10 +47,21 @@ scrollBy 및 scrollHeight 감지를 통해 모든 카페 항목을 탐색한 후
 
 ---
 
-## 📊 수집 결과 예시
+## 🙋 담당 역할
 
-<img src="images/r1.png" width="650"/>
-<img src="images/r2.png" width="650"/>
+크롤링 및 데이터 전처리 파트를 담당
+
+
+---
+
+## 💡 Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+</p>
 
 ---
 
@@ -41,13 +69,7 @@ scrollBy 및 scrollHeight 감지를 통해 모든 카페 항목을 탐색한 후
 
 논문기재  https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003221524
 
-서울시 자치구의 카페 메뉴 정보를 네이버 지도 기반으로 크롤링하고, 이를 전처리하여 분석 가능한 형태로 구조화한 프로젝트입니다.  
-iframe, 무한스크롤, 그룹형/이미지 메뉴 등 복잡한 DOM 구조를 자동으로 대응하도록 구성되어 있습니다.
 
 
----
 
 
-## 🙋 담당 역할
-
-크롤링 및 데이터 전처리 파트를 담당
